@@ -28,4 +28,8 @@ Usage
 	
 How to Cite
 -----------
-If you make use of the SYSU-Shape data, please cite the following reference in any publications: [Coming soon...]
+If you make use of the SYSU-Shape data, please cite the following reference in any publications:
+
+**Liang Lin, Xiaolong Wang, Wei Yang, and JianHuang Lai**, 
+*Discriminatively Trained And-Or Graph Models for Object Shape Detection*, 
+**IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), DOI: 10.1109/TPAMI.2014.2359888, 2014.**
